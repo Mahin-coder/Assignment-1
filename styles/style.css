@@ -1,0 +1,51 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Work Sans', sans-serif;
+}
+/*--------this is header section----------*/
+.heading{
+    position: relative;
+}
+.banner{
+    background-image: url(/images/banner/banner2.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.main_title {
+    position: absolute;
+    top: 213px;
+    right: 413px;
+    text-align: right;
+}
+.title{
+    font-size: 65px;
+    font-weight: 700;
+    line-height: 76.25px;
+    color: #151414;
+}
+.main_info {
+    position: absolute;
+    top: 459px;
+    right: 414px;
+    text-align: right;
+}
+.description{
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26px;
+    color: #444343;
+}
+.main_btn {
+    background: none;
+    border: none;
+    background-color: #f15b22;
+    font-size: 20px;
+    font-weight: 600;
+    color: #fff;
+    padding: 20px 26px;
+    border-radius: 6px;
+    position: absolute;
+    top: 569px;
+    right: 417px;
+}
