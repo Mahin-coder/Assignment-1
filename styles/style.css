@@ -122,3 +122,49 @@
     color: #F15B22;
 }
 /*----------footer section start here---------*/
+.footer_section{
+    width: 100%;
+    height: 577px;
+    background-color: #151414;
+    position: relative;
+}
+.information {
+    position: absolute;
+    top: 139px;
+    left: 371px;
+}
+.footer_title{
+    font-size: 45px;
+    font-weight: 700;
+    color: #f8f8f8;
+}
+.footer_info{
+    font-size: 16px;
+    font-weight: 400;
+    color: #fff;
+}
+.subscribe {
+    position: absolute;
+    top: 154px;
+    right: 375px;
+}
+.sub_title{
+    font-size: 25px;
+    font-weight: 600;
+    color: #fff;
+}
+.email-type{
+    padding-left: 21px;
+    padding-top: 21px;
+    padding-bottom: 22px;
+    background-color: #151414;
+    border: 1px solid #fff;
+    border-radius: 5px;
+}
+.sub_btn{
+    font-size: 20px;
+    font-weight: 600;
+    color: #F15B22;
+    padding: 20px 36px;
+    border-radius: 5px;
+}
