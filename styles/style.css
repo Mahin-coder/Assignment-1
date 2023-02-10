@@ -6,6 +6,7 @@
 /*--------this is header section----------*/
 .heading{
     position: relative;
+    margin-bottom: 130px;
 }
 .banner{
     background-image: url(/images/banner/banner2.png);
@@ -48,4 +49,25 @@
     position: absolute;
     top: 569px;
     right: 417px;
+}
+/*---------body section starts here---------*/
+.failure{
+    display: flex;
+    align-items: center;
+    gap: 87px;
+    width: 1072px;
+    margin: 0 auto;
+    margin-bottom: 130px;
+}
+.main_title2{
+    font-size: 40px;
+    font-weight: 700;
+    color: #151414;
+}
+.brief{
+    font-size: 16px;
+    font-weight: 400;
+    color: #444343;
+    list-style-type: square;
+    list-style-position: inside;
 }
