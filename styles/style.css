@@ -71,3 +71,11 @@
     list-style-type: square;
     list-style-position: inside;
 }
+.plan{
+    text-align: center;
+}
+.skills{
+    display: flex;
+    justify-content: center;
+    gap: 185px;
+}
